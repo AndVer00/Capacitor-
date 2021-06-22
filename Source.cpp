@@ -1,6 +1,10 @@
-#include <iostream>
-#include <math.h>
+#include<iostream>
+#include<vector>
+#include <algorithm>
+#include <string>
 #include <fstream>
+#include <ctime>
+#include <map>
 
 using namespace std;
 
